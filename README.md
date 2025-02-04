@@ -16,6 +16,7 @@ Before running this project, make sure **Docker** is installed.
 Open **Terminal** (or Command Prompt) and run:
 
 git clone <https://github.com/SwaroopaSandu/receipt-processor.git>
+
 cd receipt-processor
 
 ### 3. Now Run the Project with Docker
